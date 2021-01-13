@@ -1,5 +1,3 @@
-# INF3-OpravnyTest
-Opravný test z predmetu Informatika 3 (3. semester)
 <div align="center">
 	<a href="https://www.uniza.sk/index.php/en/" target="_blank">
 		<img src="https://img.shields.io/badge/university-University%20of%20Žilina-2B3A65.svg" alt="university">
@@ -16,7 +14,8 @@ Opravný test z predmetu Informatika 3 (3. semester)
 	University of Žilina<br>Faculty of Management Science and Informatics
 </h2>
 
-# INF3 test 3
+# INF3-OpravnyTest
+Opravný test z predmetu Informatika 3 (3. semester)
 ## A. Trieda
 Do nasledujúcej triedy:
 
