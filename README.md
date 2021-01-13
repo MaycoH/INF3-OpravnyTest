@@ -15,7 +15,7 @@
 </h2>
 
 # INF3-OpravnyTest
-Opravný test z predmetu Informatika 3 (3. semester)
+Opravný test z predmetu Informatika 3 (3. semester). Doplnené pridanie študenta z klávesnice (pomocou reťazca).
 ## A. Trieda
 Do nasledujúcej triedy:
 
